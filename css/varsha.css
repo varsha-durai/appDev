@@ -1,0 +1,154 @@
+.jumpo-tron {
+    display: flex;
+    height: 150px;
+    width: 1300px;
+    background: black;
+}
+
+.text {
+    color: white;
+}
+
+.jumpo-tronleft {
+    padding-left: 120px;
+}
+
+.jumpo-tronright {
+    padding-left: 600px;
+}
+
+.banner-front {
+    height: 350px;
+    width: 1300px;
+    background: black;
+    display: flex;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.banner-left {
+    padding-left: 120px;
+    width: 550px;
+}
+
+.banner-right {
+    margin-left: 150px;
+    height: 220px;
+    width: 400px;
+    background: grey;
+}
+
+.button-start {
+    height: 50px;
+    width: 150px;
+    background: blue 1px;
+}
+
+.button-learn {
+    height: 50px;
+    width: 150px;
+    margin-left: 50px;
+    background: blue;
+}
+
+.feature-blog {
+    height: 550px;
+    width: 1300px;
+    display: flex;
+}
+
+.feature-blogleft {
+    padding-left: 120px;
+    padding-top: 50px;
+    height: 450px;
+    width: 350px;
+}
+
+.feature-blogright {
+    height: 500px;
+    width: 750px;
+    display: flex;
+}
+
+.blog-start {
+    height: 450px;
+    width: 700px;
+    padding-left: 50px;
+}
+
+.feature-box {
+    margin-top: 70px;
+    height: 50px;
+    width: 50px;
+    background: blue;
+}
+
+.text1 {
+    text-align: center;
+}
+
+.about-blog {
+    height: 350px;
+    width: 1300px;
+    background: lightgrey;
+}
+
+.about-bloginner {
+    height: 100px;
+    width: 500px;
+    margin-left: 400px;
+    padding-top: 100px;
+}
+
+.about-box {
+    margin-left: 450px;
+    height: 50px;
+    width: 50px;
+    background: grey;
+}
+
+.from-blog {
+    padding-top: 50px;
+    height: 200px;
+    width: 1300px;
+}
+
+.blog-container {
+    height: 580px;
+    width: 1300px;
+}
+
+.card-outer {
+    margin-left: 100px;
+    height: 480px;
+    width: 300px;
+    background: lightgrey;
+}
+
+.card-inner {
+    height: 170px;
+    width: 300px;
+    background: grey;
+}
+
+.news-card {
+    height: 30px;
+    width: 70px;
+    background: blue;
+}
+
+.author-card {
+    height: 50px;
+    width: 50px;
+    background: grey;
+}
+
+.card-end {
+    margin-left: 20px;
+}
+
+.blog-container {
+    display: flex;
+}

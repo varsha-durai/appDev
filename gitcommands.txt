@@ -3,3 +3,4 @@
 # add . - adds all file to stage
 # commit -m <"TYPE MESSAGE">will commit all staged files permanently
 # log - show commit history
+varsha durairaj
