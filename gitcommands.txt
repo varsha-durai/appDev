@@ -1,0 +1,5 @@
+# init - initialize empty folder
+# status - shows current git status
+# add . - adds all file to stage
+# commit -m <"TYPE MESSAGE">will commit all staged files permanently
+# log - show commit history
