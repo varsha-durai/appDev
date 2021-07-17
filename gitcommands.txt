@@ -4,3 +4,5 @@
 # commit -m <"TYPE MESSAGE">will commit all staged files permanently
 # log - show commit history
 varsha durairaj
+EIE
+SASTRA
